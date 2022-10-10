@@ -1,1 +1,0 @@
-# candidate_testing_frontend
